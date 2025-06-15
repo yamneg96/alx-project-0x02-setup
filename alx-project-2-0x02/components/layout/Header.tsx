@@ -8,10 +8,10 @@ const Header = () => {
           ALX Project
         </Link>
         <div className="space-x-4">
-          <Link href="alx-project-2-0x02\pages\home.tsx" className="hover:text-gray-300">
+          <Link href="/home" className="hover:text-gray-300">
             Home
           </Link>
-          <Link href="alx-project-2-0x02\pages\about.tsx" className="hover:text-gray-300">
+          <Link href="/about" className="hover:text-gray-300">
             About
           </Link>
           <Link href="/posts" className="hover:text-gray-300">
